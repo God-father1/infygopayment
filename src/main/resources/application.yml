@@ -1,0 +1,10 @@
+spring:
+ application:
+  name: InfyGoPayment
+ datasource:
+  username: root
+  password: root
+  url: jdbc:mysql://localhost:3306/infyGoPayment
+
+server:
+  port: 9400
